@@ -1,2 +1,2 @@
-# activation-playwaze
-Activation Issue Tracker for Playwaze
+# activation
+Activation Issue Tracker for Openactive Implementations
