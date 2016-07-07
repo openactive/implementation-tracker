@@ -1,7 +1,5 @@
 ## [Activation Issue Tracker](https://github.com/openactive/activation/issues) for Openactive Implementations
 
-## Welcome
-
 [//]: # (Below the SNIP is included in Openactive.io)
 [//]: # (_SNIP_)
 
