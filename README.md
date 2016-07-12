@@ -3,7 +3,7 @@
 [//]: # (Below the SNIP is included in Openactive.io)
 [//]: # (_SNIP_)
 
-We encourage you to make use of the [Activation Issue Tracker](https://github.com/openactive/activation/issues). For new implementations, please post an example JSON response (even if hypothetical, before work has begun) with a link to your test environment if appropriate, with the "example" label, for the community to comment on. Please do check the [implementation check list](https://github.com/openactive/realtime-paged-data-exchange) before posting.
+We encourage you to make use of the [Activation Issue Tracker](https://github.com/openactive/activation/issues) when implementing the [Openactive RPDE specification](https://www.openactive.io/realtime-paged-data-exchange/). For new implementations, please post an example JSON response (even if hypothetical, before work has begun) with a link to your test environment if appropriate, with the "example" label, for the community to comment on. Please do check the [implementation check list](https://github.com/openactive/realtime-paged-data-exchange) before posting.
 
 #### Labels to use
 
