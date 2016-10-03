@@ -1,11 +1,11 @@
-## Activation Issue Tracker for Openactive Implementations
+## Activation Issue Tracker for OpenActive Implementations
 
-[//]: # (Below the SNIP is included in Openactive.io)
+[//]: # (Below the SNIP is included in openactive.io)
 [//]: # (_SNIP_)
 
-If you've jumped straight into the technical detail by getting here, please check out the  [Openactive RPDE specification](https://www.openactive.io/realtime-paged-data-exchange/) and [examples](https://github.com/openactive/activation/issues?q=label%3Aexample) to get started, but also remember to go back to [The Steps](https://www.openactive.io/technology.html#the-steps) to continue with the next steps afterwards. 
+If you've jumped straight into the technical detail by getting here, please check out the  [OpenActive RPDE specification](https://www.openactive.io/realtime-paged-data-exchange/) and [examples](https://github.com/openactive/activation/issues?q=label%3Aexample) to get started, but also remember to go back to [The Steps](https://www.openactive.io/technology.html#the-steps) to continue with the next steps afterwards. 
 
-We encourage you to make use of the [issues on the activation repo](https://github.com/openactive/activation/issues) when implementing the [Openactive RPDE specification](https://www.openactive.io/realtime-paged-data-exchange/). 
+We encourage you to make use of the [issues on the activation repo](https://github.com/openactive/activation/issues) when implementing the [OpenActive RPDE specification](https://www.openactive.io/realtime-paged-data-exchange/). 
 
 Useful views:
 - **[View all examples](https://github.com/openactive/activation/issues?q=label%3Aexample)**
