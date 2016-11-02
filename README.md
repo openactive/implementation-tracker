@@ -4,7 +4,7 @@
 
 # OpenActive: Activation Issue Tracker
 
-We encourage you to make use of the issues on this repo when implementing the [OpenActive RPDE specification](https://www.openactive.io/realtime-paged-data-exchange/). 
+We encourage you to make use of the issues on this repo when implementing the [OpenActive RPDE specification](https://github.com/openactive/realtime-paged-data-exchange/blob/master/README.md). 
 
 [//]: # (Below the SNIP is included in openactive.io)
 [//]: # (_SNIP_)
