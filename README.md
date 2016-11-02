@@ -1,5 +1,5 @@
 > - [OpenActive: RPDE specification](https://github.com/openactive/realtime-paged-data-exchange/blob/master/README.md) - the spec.
-> - **[OpenActive: Activation Issue Tracker](hhttps://github.com/openactive/activation)** - help implementing the spec. 
+> - **[OpenActive: Activation Issue Tracker](https://github.com/openactive/activation)** - help implementing the spec. 
 > - [OpenActive: The Steps](https://www.openactive.io/technology.html#the-steps) - what to do after you've implemented the spec. 
 
 ## Activation Issue Tracker for OpenActive Implementations
