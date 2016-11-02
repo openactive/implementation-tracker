@@ -4,8 +4,8 @@ We encourage you to make use of the issues on this repo when implementing the [O
 
 #### Quick Links
 
-- [OpenActive: The Steps](https://www.openactive.io/technology.html#the-steps) to continue with the next steps afterwards. 
-- [OpenActive RPDE specification](https://www.openactive.io/realtime-paged-data-exchange/) 
+- [OpenActive: The Steps](https://www.openactive.io/technology.html#the-steps): what to do after you've implemented the spec. 
+- [OpenActive RPDE specification](https://www.openactive.io/realtime-paged-data-exchange/): the spec.
 
 [//]: # (Below the SNIP is included in openactive.io)
 [//]: # (_SNIP_)
