@@ -5,7 +5,7 @@ We encourage you to make use of the issues on this repo when implementing the [O
 #### Quick Links
 
 - [OpenActive: The Steps](https://www.openactive.io/technology.html#the-steps) - what to do after you've implemented the spec. 
-- [OpenActive RPDE specification](https://www.openactive.io/realtime-paged-data-exchange/) - the spec.
+- [OpenActive RPDE specification](https://github.com/openactive/realtime-paged-data-exchange/blob/master/README.md) - the spec.
 
 [//]: # (Below the SNIP is included in openactive.io)
 [//]: # (_SNIP_)
@@ -18,7 +18,7 @@ We encourage you to make use of the issues on this repo when implementing the [O
 
 #### Your Implementation
 
-For new implementations, please create an issue on this respository with an example JSON response (even if hypothetical, before work has begun), including a link to your test environment if appropriate, with the "example" label, for the community to comment on. Please do check the [implementation check list](https://github.com/openactive/realtime-paged-data-exchange) before posting.
+For new implementations, please create an issue on this respository with an example JSON response (even if hypothetical, before work has begun), including a link to your test environment if appropriate, with the "example" label, for the community to comment on. Please do check the [implementation check list](https://github.com/openactive/realtime-paged-data-exchange/blob/master/README.md) before posting.
 
 #### Issue Tracker Labels to Use
 
