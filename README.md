@@ -1,13 +1,10 @@
+> - [OpenActive: RPDE specification](https://github.com/openactive/realtime-paged-data-exchange/blob/master/README.md) - the spec.
+> - **[OpenActive: Activation Issue Tracker](hhttps://github.com/openactive/activation)** - help implementing the spec. 
+> - [OpenActive: The Steps](https://www.openactive.io/technology.html#the-steps) - what to do after you've implemented the spec. 
+
 ## Activation Issue Tracker for OpenActive Implementations
 
 We encourage you to make use of the issues on this repo when implementing the [OpenActive RPDE specification](https://www.openactive.io/realtime-paged-data-exchange/). 
-
-### Quick Links
-
-- [OpenActive RPDE specification](https://github.com/openactive/realtime-paged-data-exchange/blob/master/README.md) - the spec.
-- [OpenActive: The Steps](https://www.openactive.io/technology.html#the-steps) - what to do after you've implemented the spec. 
-
-### Activation Issue Tracker
 
 [//]: # (Below the SNIP is included in openactive.io)
 [//]: # (_SNIP_)
