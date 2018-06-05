@@ -1,6 +1,6 @@
 ---
 name: Feedback request template
-about: Sample JSON from a newly created feed
+about: If you're seeking feedback on your own feed, use this template
 
 ---
 
