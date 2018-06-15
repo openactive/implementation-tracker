@@ -10,17 +10,19 @@ Applying rules:
 Not like this:
 
 ```javascript
-  "property": {
-    "type": "IncorrectTypeName"
-  }
+{
+  "@context": "https://www.openactive.io/ns/oa.jsonld",
+  "type": "Event",
+  "property": "incorrect"
 }
 ```
-
 
 Like this:
 
 ```javascript
-  "property": {
-    "type": "CorrectTypeName" /* self describing rule name, inserted to indicate application of rule */
-  }
+{
+  "@context": "https://www.openactive.io/ns/oa.jsonld",
+  "type": "Event",
+  "property": "correct" /* self describing rule name, inserted to indicate application of rule */
+}
 ```
