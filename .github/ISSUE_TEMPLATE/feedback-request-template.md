@@ -4,6 +4,11 @@ about: If you're seeking feedback on your own feed, use this template
 
 ---
 
+Open endpoint for QA:
+> https://api.example.com/opendata/feed
+
+-- AND / OR --
+
 Sample JSON:
 
 ```
