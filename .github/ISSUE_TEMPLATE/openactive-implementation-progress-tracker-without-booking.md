@@ -1,8 +1,8 @@
 ---
-name: Track progress of a new OpenActive integration WITHOUT booking
+name: Track progress of a new OpenActive implementation WITHOUT booking
 about: Issue to track the development progress of publishing open data within a booking or listing system.
 title: "Name of system"
-labels: Open data integration
+labels: Open data implementation
 assignees: ''
 
 ---
@@ -10,7 +10,7 @@ assignees: ''
 
 ## Development Progress Tracker
 
-This issue aims to provide public visibility of this new OpenActive integration's development progress. The task list below tracks high level progress at-a-glance, while comments on this issue are used to provide updates in more detail.
+This issue aims to provide public visibility of this new OpenActive implementation's development progress. The task list below tracks high level progress at-a-glance, while comments on this issue are used to provide updates in more detail.
 
 ### Speculative
 - [ ] Scoping
