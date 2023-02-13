@@ -1,12 +1,12 @@
 ---
 name: Track progress of a new OpenActive integration WITHOUT booking
 about: Issue to track the development progress of publishing open data within a booking or listing system.
-title: "[PUBLISHING INTEGRATION] Name of system"
+title: "Name of system"
 labels: Open data integration
 assignees: ''
 
 ---
-[//]: # (Simply update this name of this issue above to include the name of your system, then click the green "Submit new issue" button below)
+[//]: # (Simply update the name of this issue to the name of your system, then click the green "Submit new issue" button below)
 
 ## Development Progress Tracker
 
