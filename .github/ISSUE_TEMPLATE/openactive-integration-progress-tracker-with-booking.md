@@ -1,12 +1,12 @@
 ---
 name: Track progress of a new OpenActive integration WITH booking
 about: Issue to track the development progress of an OpenActive open data and Open Booking API integration within a booking or listing system.
-title: "[BOOKING INTEGRATION] Name of system"
+title: "Name of system"
 labels: Open Booking API integration
 assignees: ''
 
 ---
-[//]: # (Simply update this name of this issue above to include the name of your system, then click the green "Submit new issue" button below)
+[//]: # (Simply update the name of this issue to the name of your system, then click the green "Submit new issue" button below)
 
 ## Development Progress Tracker
 
