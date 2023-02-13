@@ -1,8 +1,8 @@
 ---
-name: Track progress of a new OpenActive integration WITH booking
-about: Issue to track the development progress of an OpenActive open data and Open Booking API integration within a booking or listing system.
+name: Track progress of a new OpenActive implementation WITH booking
+about: Issue to track the development progress of an OpenActive open data and Open Booking API implementation within a booking or listing system.
 title: "Name of system"
-labels: Open Booking API integration
+labels: Open Booking API implementation
 assignees: ''
 
 ---
@@ -10,7 +10,7 @@ assignees: ''
 
 ## Development Progress Tracker
 
-This issue aims to provide public visibility of this new OpenActive integration's development progress. The task list below tracks high level progress at-a-glance, while comments on this issue are used to provide updates in more detail.
+This issue aims to provide public visibility of this new OpenActive implementation's development progress. The task list below tracks high level progress at-a-glance, while comments on this issue are used to provide updates in more detail.
 
 ### Speculative
 - [ ] Scoping
