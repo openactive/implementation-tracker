@@ -18,6 +18,7 @@ This issue aims to provide public visibility of this new OpenActive integration'
 
 ### In Development
 - [ ] Dataset site built
+- [ ] Dataset site GitHub issues board created
 - [ ] Open data feeds built
 - [ ] Open data feeds pass OpenActive Validator
 - [ ] Open data feeds pass OpenActive Test Suite
