@@ -6,7 +6,7 @@ labels: Open data integration
 assignees: ''
 
 ---
-[//]: # (Simply update the name of this issue to the name of your system, then click the green "Submit new issue" button below)
+[//]: # (Simply update the name of this issue above to the name of your system, then click the green "Submit new issue" button below)
 
 ## Development Progress Tracker
 
