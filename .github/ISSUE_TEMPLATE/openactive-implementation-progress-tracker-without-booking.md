@@ -13,6 +13,7 @@ assignees: ''
 This issue aims to provide public visibility of this new OpenActive implementation's development progress. The task list below tracks high level progress at-a-glance, while comments on this issue are used to provide updates in more detail.
 
 ### Speculative
+- [ ] OpenActive community engagement
 - [ ] Scoping
 - [ ] Scheduling
 
